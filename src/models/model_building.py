@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import pickle
 from sklearn.ensemble import GradientBoostingClassifier
 import yaml

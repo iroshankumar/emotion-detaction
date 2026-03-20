@@ -13,8 +13,8 @@ stages:
     outs:
     - path: data/raw
       hash: md5
-      md5: 6d7c9717b531961233cd66af69381384.dir
-      size: 817597
+      md5: 5555179ba1adb98e191b98d9e115222b.dir
+      size: 890259
       nfiles: 2
   data_preprocessing:
     cmd: python src/data/data_preprocessing.py

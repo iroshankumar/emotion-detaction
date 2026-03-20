@@ -1,6 +1,8 @@
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
 import os
+
 from sklearn.feature_extraction.text import TfidfVectorizer
 import yaml
 import logging
